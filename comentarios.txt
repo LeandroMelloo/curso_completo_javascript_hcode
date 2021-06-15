@@ -1,0 +1,12 @@
+Classe = variaveis(atributos) e funções(metodos) dentro de uma classe
+Classe = conjunto de atributos e metodos
+Instânica = é um Objeto que representa uma Classe
+Objeto = representa uma classe ou seja é uma instância
+Constructor = nome dado ao método construtor de uma classe
+Parâmetros = são informações que a função precisa
+Atributo = similar  uma variável, porém com mais recursos
+this = referencia atributos e métodos
+Encapsulamento = controla o acesso a um atributo ou método
+Os tipos comuns de encapsulamento são: public, protected, private
+_dataAtual = esse atributo é privado
+Os métodos getters e setters = permitem definir como acessar os valores
